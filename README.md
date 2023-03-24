@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/sleepymwangi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sleepymwangi1" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sleepymwangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sleepymwangi" height="30" width="40" /></a>
-<a href="https://instagram.com/sleepy_247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleepy_247" height="30" width="40" /></a>
+<a href="https://instagram.com/sl_eepy_247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sleepy_247" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
