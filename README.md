@@ -34,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleepymwangi&show_icons=true&locale=en" alt="sleepymwangi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepymwangi&" alt="sleepymwangi" /></p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Lo9N6fMB8A7KR7OIEwnhhRzLkMy4JM78Nw&usqp=CAU" alt="Banner" width="80%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&usqp=CAU" alt="Banner" width="80%">
