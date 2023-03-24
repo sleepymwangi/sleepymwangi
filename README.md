@@ -1,10 +1,9 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="70%">
+</div>
 
 <h1 align="center">Hi 👋, I'm sleepy mwangi</h1>
 <h3 align="center">A passionate developer from Kenya</h3>
-
-<div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%">
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepymwangi&label=Profile%20views&color=0e75b6&style=flat" alt="sleepymwangi" /> </p>
 
