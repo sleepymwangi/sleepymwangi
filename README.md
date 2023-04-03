@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm sleepy mwangi</h1>
+<h1 align="center">Hi 👋, I'm Paul mwangi</h1>
 <h3 align="center">A passionate developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepymwangi&label=Profile%20views&color=0e75b6&style=flat" alt="sleepymwangi" /> </p>
